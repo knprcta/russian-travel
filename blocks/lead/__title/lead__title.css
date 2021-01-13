@@ -7,3 +7,19 @@
   font-size: 96px;
   line-height: 100px;
 }
+
+@media screen and (max-width: 719px) {
+  .lead__title {
+    max-width: 500px;
+    font-size: 60px;
+    line-height: 66px;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .lead__title {
+    max-width: 288px;
+    font-size: 40px;
+    line-height: 44px;
+  }
+}
