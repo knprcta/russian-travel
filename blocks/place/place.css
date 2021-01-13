@@ -1,0 +1,13 @@
+.place {
+  display: grid;
+  max-width: 984px;
+  grid-template-columns: 460fr 484fr;
+  grid-template-rows: min-content;
+  gap: 48px 40px;
+  margin: 0 auto;
+  padding: 0 48px 80px;
+}
+
+.place:last-child {
+  padding-bottom: 0;
+}
