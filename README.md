@@ -6,5 +6,6 @@
 * Адаптивность;
 * Медиазапросы;
 * Гриды.
+
 **GitHub Pages**
 * [Ссылка на проект в GitHub Pages](https://knprcta.github.io/russian-travel/)
