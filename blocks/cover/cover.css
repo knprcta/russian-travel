@@ -1,18 +1,7 @@
 .cover {
-  background-image: url(../../images/cover-trains.jpg);
-  background-size: cover;
-  background-position: center;
-  
   max-width: 1184px;
   width: 100%;
   margin: 92px auto;
-  position: relative;
-}
-
-.cover:before {
-  content: "";
-  padding-top: 62.5%;
-  display: block;
 }
 
 @media screen and (max-width: 800px) {
@@ -21,8 +10,8 @@
   }
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 450px) {
   .cover {
-    margin: 66px auto 64px;
+    margin: 66px auto;
   }
 }

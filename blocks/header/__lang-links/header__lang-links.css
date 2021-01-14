@@ -2,4 +2,7 @@
   display: flex;
   list-style-type: none;
   justify-items: flex-end;
+  align-items: flex-end;
+  margin: 0;
+  padding: 0;
 }
